@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.3.1)  27 MAR 2019 12:58
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.3.1)  27 MAR 2019 13:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1519,29 +1519,85 @@ as'Yas' on input line 33.
 \symnew@mathbf@font@digits=\mathgroup7
 \symnew@mathit@font@digits=\mathgroup8
 \symnew@mathrm@font@digits=\mathgroup9
-\c@Def=\count374
 
+*************************************************
+* fontspec warning: "language-not-exist"
+* 
+* Language 'Parsi' not available for font 'IranNastaliq' with script 'Parsi'.
+*  'Default' language used instead.
+*************************************************
+\g__fontspec_family_IranNastaliq_int=\count374
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "IranNastaliq/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "IranNastaliq/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "IranNastaliq/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'IranNastaliq(0)' created for font 'IranNastaliq' with options
+. [Script=Parsi,Language=Parsi,Mapping=parsidigits].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"IranNastaliq/OT:script=arab;language=DFLT;mapping=parsidigits;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+\g__fontspec_family_XBSols_int=\count375
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'XBSols(0)' created for font 'XB Sols' with options
+. [Script=Parsi,Language=Parsi,Mapping=parsidigits].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"XB
+. Sols/OT:script=arab;language=FAR;mapping=parsidigits;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.: <->"XB
+. Sols/B/OT:script=arab;language=FAR;mapping=parsidigits;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'italic' (m/it) with NFSS spec.: <->"XB
+. Sols/I/OT:script=arab;language=FAR;mapping=parsidigits;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+. - 'bold italic' (bx/it) with NFSS spec.: <->"XB
+. Sols/BI/OT:script=arab;language=FAR;mapping=parsidigits;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+\c@Def=\count376
 (./myBeamerSlide.aux)
 \openout1 = `myBeamerSlide.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1579,7 +1635,7 @@ LaTeX Font Info:    ... okay on input line 89.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box74
-Package hyperref Info: Link coloring OFF on input line 89.
+Package hyperref Info: Link coloring OFF on input line 98.
 
 (c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1587,11 +1643,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count375
+\c@section@level=\count377
 )
-LaTeX Info: Redefining \ref on input line 89.
-LaTeX Info: Redefining \pageref on input line 89.
-LaTeX Info: Redefining \nameref on input line 89.
+LaTeX Info: Redefining \ref on input line 98.
+LaTeX Info: Redefining \pageref on input line 98.
+LaTeX Info: Redefining \nameref on input line 98.
 
 (./myBeamerSlide.out) (./myBeamerSlide.out)
 \@outlinefile=\write5
@@ -1621,7 +1677,17 @@ Dictionary: translator-numbers-dictionary, Language: English
 (c:/texlive/2018/texmf-dist/tex/latex/translator/translator-theorem-dictionary-
 English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./myBeamerSlide.nav) [1
+) (./myBeamerSlide.nav)
+LaTeX Font Info:    Try loading font information for U+msa on input line 98.
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 98.
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
 
 ] [2
 
@@ -1635,11 +1701,12 @@ Dictionary: translator-theorem-dictionary, Language: English
 \tf@snm=\write8
 \openout8 = `myBeamerSlide.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
- (./myBeamerSlide.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 96.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+
+(./myBeamerSlide.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 105.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
 Package rerunfilecheck Info: File `myBeamerSlide.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  )
@@ -1648,12 +1715,12 @@ Package rerunfilecheck Info: File `myBeamerSlide.out' has not changed.
 ### simple group (level 1) entered at line 23 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 34782 strings out of 492970
- 705848 string characters out of 6137299
- 855016 words of memory out of 5000000
- 38200 multiletter control sequences out of 15000+600000
- 530800 words of font info for 44 fonts, out of 8000000 for 9000
+ 34909 strings out of 492970
+ 708883 string characters out of 6137299
+ 855783 words of memory out of 5000000
+ 38275 multiletter control sequences out of 15000+600000
+ 535777 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 57i,16n,69p,10451b,11324s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,19n,69p,10451b,11334s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on myBeamerSlide.pdf (2 pages).
